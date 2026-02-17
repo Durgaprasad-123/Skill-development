@@ -1,0 +1,11 @@
+what is BASH?
+Bourne Again SHell which acts a interpreter and as well for Scripting and automation for the unix/linux and macos based system
+
+What is Variable?
+Variable is a Container which used to store data such as strings,output
+
+What is SHEBANG?
+echo "#!" is a charcter symbol which tell the system to use perticular interpreter
+
+terminal: The interface which we type and takes input and provide output & it is face for enduser
+SHELL:the interpreter between the kernel and excutes the commands we provide and takes the input from terminal
