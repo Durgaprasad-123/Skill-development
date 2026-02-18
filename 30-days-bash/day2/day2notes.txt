@@ -1,0 +1,9 @@
+User arguments:
+$#: counts the number of all command line arguments
+$@: list all the arguments
+
+exit codes:
+0 --> success
+1 --> generic error
+2 --> invalid argument
+
