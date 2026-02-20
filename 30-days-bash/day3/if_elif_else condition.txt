@@ -1,0 +1,29 @@
+Make sure you have to put everything in Braces
+#if [ condition ]
+then
+    commands
+fi
+
+#For elif Confition
+
+if [ condition ]
+then
+    commands
+elif [ condition ]
+then
+    commands
+fi
+
+#for if-elif-else condition
+if [ condition ]
+then
+    commands
+elif [ condition ]
+then
+    commands
+else
+    commands
+fi
+
+
+  
