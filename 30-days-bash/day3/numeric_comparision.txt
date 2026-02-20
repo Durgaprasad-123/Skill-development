@@ -1,0 +1,8 @@
+Operator	Meaning
+-eq	equal
+-ne	not equal
+-gt	greater than
+-lt	less than
+-ge	greater or equal
+-le	less or equal
+these are numeric comparision
