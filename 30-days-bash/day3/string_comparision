@@ -1,0 +1,8 @@
+Operator	Meaning
+= or ==   	equal
+!=	        not equal
+<	          less than (alphabetical)
+>	          greater than (alphabetical)
+-z	        string is empty
+-n	        string is not empty
+
