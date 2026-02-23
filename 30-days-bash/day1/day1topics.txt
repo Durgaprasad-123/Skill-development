@@ -5,7 +5,7 @@ What is Variable?
 Variable is a Container which used to store data such as strings,output
 
 What is SHEBANG?
-echo "#!" is a charcter symbol which tell the system to use perticular interpreter
+echo "#!" is a charcter symbol which tell the system to use particular interpreter
 
 terminal: The interface which we type and takes input and provide output & it is face for enduser
 SHELL:the interpreter between the kernel and excutes the commands we provide and takes the input from terminal
